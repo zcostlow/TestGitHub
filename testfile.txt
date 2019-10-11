@@ -1,1 +1,1 @@
-This a etst txt file for github
+This a test txt file for github
